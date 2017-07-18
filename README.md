@@ -1,4 +1,5 @@
 # deep-rl-paper-note
 notes on deep RL research papers
 
-- [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286)
+- Distral: Robust Multitask Reinforcement Learning [arxiv](https://arxiv.org/abs/1707.04175)
+- Emergence of Locomotion Behaviours in Rich Environments [arxiv](https://arxiv.org/abs/1707.02286)
